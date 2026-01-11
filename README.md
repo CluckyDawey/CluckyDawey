@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CluckyDawey
 - 👀 I’m interested in programming and getting a job eventually
-- 🌱 I’m currently learning web development with the odinproject
+- 🌱 I’m currently learning web development with the Odinproject/freeCodeCamp
 - 💞️ I’m looking to collaborate on projects that will make me learn
 - 📫 How to reach me <andrecarlosbundal@gmail.com>
 
